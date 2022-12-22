@@ -1,0 +1,5 @@
+run These in Terminal : 
+
+    1. pip install undetected_chromedriver
+
+    2. pip install selenium
